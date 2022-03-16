@@ -1,0 +1,4 @@
+*.sav
+test
+__pycache__
+.vscode
